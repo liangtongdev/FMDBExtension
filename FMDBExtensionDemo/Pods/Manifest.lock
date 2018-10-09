@@ -1,0 +1,25 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - FMDBExtension (0.0.1):
+    - FMDB
+
+DEPENDENCIES:
+  - FMDBExtension (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
+
+EXTERNAL SOURCES:
+  FMDBExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  FMDBExtension: 52f9ed4e5919a273884aa67bdd2e098d63619128
+
+PODFILE CHECKSUM: 3633bb550759a99c7574547349b7046124ed25ef
+
+COCOAPODS: 1.5.3
