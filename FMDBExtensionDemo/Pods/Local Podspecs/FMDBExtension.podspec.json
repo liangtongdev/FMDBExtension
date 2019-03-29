@@ -12,13 +12,9 @@
   },
   "source": {
     "git": "https://github.com/liangtongdev/FMDBExtension.git",
-    "tag": "0.0.1",
-    "submodules": true
+    "tag": "0.0.1"
   },
-  "frameworks": [
-    "Foundation",
-    "UIKit"
-  ],
+  "frameworks": "Foundation",
   "dependencies": {
     "FMDB": [
 
